@@ -44,7 +44,7 @@
 #maintext {
     width:70%;
     height:auto;
-    margin: 0 auto;
+    margin: 0 auto auto 70;
 }
     #maintext #textp {
         border-width:1;
