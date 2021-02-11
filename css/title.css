@@ -61,15 +61,14 @@
         height:2px;
         background:black;
     }
+    #maintext a.button {
+        -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
+        text-decoration: none;
+        color: initial;
+    }
 #end {
     width:10px;
     height:70px;
-}
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
 }
