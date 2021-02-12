@@ -25,7 +25,7 @@ a {
 }
 
     #nav ul li {
-        float: left;
+        float: center;
         width: 100%;
         /*包含块*/
         position:relative;
